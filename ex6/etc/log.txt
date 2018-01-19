@@ -1,0 +1,71 @@
+commit ae7b1ba356d16f7f77f83a94215baec2d73208d2
+Author: OMER <omer5656@gmail.com>
+Date:   Mon Jan 15 11:04:59 2018 +0200
+
+    Finished
+
+commit e898ec1656b080558df4a361fbea7b07e80019a3
+Author: OMER <omer5656@gmail.com>
+Date:   Mon Jan 15 09:38:47 2018 +0200
+
+    Added comments
+
+commit 6e04e5fd530a946d8b77ef36692eee621bd970c3
+Author: OMER <omer5656@gmail.com>
+Date:   Sat Jan 13 15:44:17 2018 +0200
+
+    Disabled resizing
+
+commit 35d050aa038ff988eefb206ea7a46218f2cd77a2
+Author: H <h@ubuntu.ubuntu-domain>
+Date:   Sat Jan 13 15:00:10 2018 +0200
+
+    fixed more issues
+
+commit e898ec1656b080558df4a361fbea7b07e80019a3
+Author: OMER <omer5656@gmail.com>
+Date:   Mon Jan 15 09:38:47 2018 +0200
+
+    need to add comments
+
+commit 6e04e5fd530a946d8b77ef36692eee621bd970c3
+Author: H <h@ubuntu.ubuntu-domain>
+Date:   Sat Jan 13 15:44:17 2018 +0200
+
+    some updates
+
+commit 35d050aa038ff988eefb206ea7a46218f2cd77a2
+Author: OMER <omer5656@gmail.com>
+Date:   Sat Jan 13 15:00:10 2018 +0200
+
+    Almost finish
+
+commit 7c925fd9888706cdc707bc0fbbf3e6c15d00d02f
+Author: OMER <omer5656@gmail.com>
+Date:   Sat Jan 13 14:05:15 2018 +0200
+
+    Added colors
+
+commit 9acd5e09b8027e2778f7e49fd3cb373622045d7b
+Author: OMER <omer5656@gmail.com>
+Date:   Fri Jan 12 23:40:18 2018 +0200
+
+	Removed start screen, addded menu and read from file settings.
+
+commit b8b801ed9d6011e014e8960d957bfad36e127dbf
+Author: OMER <omer5656@gmail.com>
+Date:   Fri Jan 12 18:24:07 2018 +0200
+
+	Basic game is working.
+
+commit 222a7295e33865087f1d3f7d231a3d1c7caaf7aa
+Author: H <h@ubuntu.ubuntu-domain>
+Date:   Fri Jan 12 15:34:07 2018 +0200
+
+    start screen working
+
+commit aaf31cf86c5cb58ba0bf4e083c0eabf0e4f06cf8
+Author: OMER <omer5656@gmail.com>
+Date:   Fri Jan 12 11:48:33 2018 +0200
+
+    Imported from C++.

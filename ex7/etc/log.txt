@@ -1,0 +1,19 @@
+commit 647906cc8270d3487a3a59a47f385ec91a058af0
+Author: H <h@ubuntu.ubuntu-domain>
+Date:   Mon Jan 15 11:46:47 2018 +0200
+
+    ex7 with comments
+
+
+commit 47a829d9a10d2fcf5349f396a77e52475c6c6c55
+Author: OMER <omer5656@gmail.com>
+Date:   Fri Jan 12 19:20:23 2018 +0200
+
+    7 is working
+
+
+commit 35284116bd7941a38e1867998b4635a399b61b68
+Author: OMER <omer5656@gmail.com>
+Date:   Wed Jan 10 15:39:15 2018 +0200
+
+    update

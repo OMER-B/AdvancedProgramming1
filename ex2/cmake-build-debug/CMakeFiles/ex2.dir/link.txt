@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ex2.dir/board.cpp.o CMakeFiles/ex2.dir/cell.cpp.o CMakeFiles/ex2.dir/consoleDisplay.cpp.o CMakeFiles/ex2.dir/game.cpp.o CMakeFiles/ex2.dir/human.cpp.o CMakeFiles/ex2.dir/logic.cpp.o CMakeFiles/ex2.dir/main.cpp.o CMakeFiles/ex2.dir/regLogic.cpp.o  -o ex2 

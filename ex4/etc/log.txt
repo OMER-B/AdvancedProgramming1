@@ -1,0 +1,53 @@
+commit 52be39d1141b816b9ffbe146c13663805416ed46
+Author: H <h@ubuntu.ubuntu-domain>
+Date:   Sun Dec 10 19:38:33 2017 +0200
+
+    final version ex4
+
+commit d12497d6a159fb4016af1206edb91a3ad4d3f503
+Author: OMER <omer5656@gmail.com>
+Date:   Sat Dec 9 22:30:43 2017 +0200
+
+    coding style and printings
+
+commit e857e8b4be6b87bf005f15d804afd3a08217d7cb
+Author: H <h@ubuntu.ubuntu-domain>
+Date:   Fri Dec 8 17:01:29 2017 +0200
+
+    game works from top to bottom
+
+commit fbaf72e1e5e39381f344e300eaaf499ecbfe7b06
+Author: omer <omer5656@gmail.com>
+Date:   Fri Dec 8 10:22:07 2017 +0200
+
+    fixed end and no moves
+
+commit 0b185cd8ea458131f924c2ee00b6a9c504e682cd
+Author: H <h@ubuntu.ubuntu-domain>
+Date:   Thu Dec 7 14:25:00 2017 +0200
+
+    updated for the weekend
+
+commit ee34cdc6ac6a678035dae86144f4ad0ad8d13387
+Author: omer <omer5656@gmail.com>
+Date:   Wed Dec 6 17:45:08 2017 +0200
+
+    fixed directories
+
+commit 209d73717e579b322f746cfd5adba22c0dbea208
+Author: omer <omer5656@gmail.com>
+Date:   Sun Dec 3 18:36:22 2017 +0200
+
+    added server
+
+commit f4ed602fcc25f12c8ffa133cc30ff10ec1b5df05
+Author: H <h@ubuntu.ubuntu-domain>
+Date:   Sat Dec 2 11:36:14 2017 +0200
+
+    starting remote player
+
+commit 836df8229d56a9e8b0a9ad6fcd582243819b87aa
+Author: omer <omer5656@gmail.com>
+Date:   Fri Dec 1 16:23:29 2017 +0200
+
+    Initial commit with ex3 completed
