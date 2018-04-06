@@ -5,5 +5,5 @@ ex 	%    manual	automatic	final
 4   15                      80
 5   20                      80
 6   20                      105
-7   5                       10
+7   5                       100
                             =93
